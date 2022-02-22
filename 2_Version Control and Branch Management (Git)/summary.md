@@ -9,7 +9,7 @@ Dalam materi ini, mempelajari:
 
 
 ### Pengertian Git dan Versioning
-Git adalah suatu control system yang dibuat agar pengembangan software secara bersama sama
+Git adalah suatu control system yang dibuat agar pengembangan software secara bersama sama.
 Versioning adalah pengaturan versi dari source code program 
 
 ### Tools
@@ -42,7 +42,7 @@ Kode untuk branch :
 - Jalnakan kode *git branch -D * untuk menghapus brach 
 
 ## Task
-### 1. Membuat Repositort Baru
+### 1. Membuat Repositort Baru dan memasukkan project
 Berikut ini merupakan kode yang saya jalankan untuk membuat respository baru
 
 ![Gambar pertama](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_satu.png)
