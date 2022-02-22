@@ -26,12 +26,16 @@ Tools terdiri dari tiga bagian antara lain :
 ## Task
 ### 1. Membuat Repositort Baru
 Berikut ini merupakan kode yang saya jalankan untuk membuat respository baru
+![Gambar pertama](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_satu.png)
 
-### 1. Membuat branch baru yang berfungsi sebagai develop
-![Gambvar pertama](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_satu.png)
+### 2. Membuat branch baru yang berfungsi sebagai develop
+![Gambar kedua](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_develop.png)
 
+### 3. Membuat branch ketiga
+![Gambar kedua](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_ketiga.png)
+### 4. Membuat branch ketiga
+![Gambar kedua](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_keempat.png)
 
-### 2. Membuat branch baru
 
 
 
