@@ -38,10 +38,10 @@ Berikut ini merupakan kode yang saya jalankan untuk membuat branch ketiga
 
 ### 4. Membuat branch ketiga
 Berikut ini merupakan kode yang saya jalankan untuk membuat branch keempat
-![Gambar kedua](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoots_keempat.png)
+![Gambar kedua](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoots_keempat.jpg)
 
 ### Berikut ini merupakan gambaran dari insight network
-![Gambar kedua](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_hasil.png)
+![Gambar kedua](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_hasil.jpg)
 
 
 
