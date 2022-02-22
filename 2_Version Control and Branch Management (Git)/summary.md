@@ -42,31 +42,51 @@ Kode untuk branch :
 - Jalnakan kode *git branch -D * untuk menghapus brach 
 
 ## Task
-### 1. Membuat Repositort Baru dan memasukkan project
-Berikut ini merupakan kode yang saya jalankan untuk membuat respository baru
+### 1. Membuat Repositori Baru dan memasukkan project  
+Membuat repository baru pada github dan juga membuat repository lokal dab menyediakan proyek yang akan di push 
+Setelah itu, menjalankan beberapa kode seperti :
+- Jalankan kode *git init* untuk mengiinialisasi file yang akan dipush
+- Jalankan *git remote add origin (link repositroy)* untuk mengkloning data storage
+- Jalankan kode *git commit -m (pesan)* untuk menyimpan perubahan namun tak mengubah pada remote repository
+- Jalankan kode *git push -u origin (nama branch)* untuk mengirim perubahan file ke repository
+
+Berikut ini merupakan hasil screenshoot dari beberapa kode yang saya jalankan untuk membuat respository baru
 
 ![Gambar pertama](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_satu.png)
 
 ### 2. Membuat branch baru yang berfungsi sebagai develop
+Untuk membuat branch baru dibutuhkkan kode program tambahan selain kode program pada langkah 1 sebelumnya seperti berikut :
+*git branch (nama branch yang akan dibuat)*
+Pada branch ini saya memberikan nama branch nya develop
+
 Berikut ini merupakan kode yang saya jalankan untuk membuat branch develop
 
 ![Gambar kedua](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_develop.png)
 
 ### 3. Membuat branch ketiga
+Untuk membuat branch baru dibutuhkkan kode program tambahan selain kode program pada langkah 1 sebelumnya seperti berikut :
+*git branch (nama branch yang akan dibuat)*
+Pada branch ini saya memberikan nama branch nya ketiga
+
 Berikut ini merupakan kode yang saya jalankan untuk membuat branch ketiga
 
 ![Gambar kedua](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoots_ketigaa.jpg)
 
 ### 4. Membuat branch ketiga
+Untuk membuat branch baru dibutuhkkan kode program tambahan selain kode program pada langkah 1 sebelumnya seperti berikut :
+*git branch (nama branch yang akan dibuat)*
+Pada branch ini saya memberikan nama branch nya keempat
+
 Berikut ini merupakan kode yang saya jalankan untuk membuat branch keempat
 
-![Gambar kedua](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoots_keempat.jpg)
+![Gambar ketiga](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoots_keempat.jpg)
 
 #### Berikut ini merupakan gambaran dari insight network
 
-![Gambar kedua](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_hasil.png)
+![Gambar screen](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/screenshoot_hasil.png)
 
-
+#### Berikut ini merupakan link repositori dari tugas praktikum :
+https://github.com/MustikaSiahaan/TugasSection02.git
 
 
 
