@@ -22,6 +22,7 @@ Lean UX Design Thingking ini terdiri dari beberapa tahapan yaitu :
 - Validate
 
 Berikut ini penjelasan terkait tahapan - tahapan tersebut :
+
 a. Empathize 
 Dengan berpura pura melihat dunia dari sisi user, memahami dan mengahrgai perasaan user
 - User persona
@@ -33,6 +34,7 @@ Yang dijabarkan mulai dari situasi yang dialami, kemudian motivaasi yang muncul 
 Cara untuk mengetahui seberapa mudah, seberapa efisien dan efektiv produk, dan kepuasaan user menggunakan produk
 
 b. Define
+
 Pada tahapan ini, memanfaatkan segala informasi yang telah didapatkan dari tahap sebelumnya
 - Pritoritising Pain Points
 Memprioritaskan setiap informasi yang ada
@@ -41,6 +43,7 @@ Diharapkan menemukan masalah inti sehingga lebih mengetahui apa yang menjadi fok
 saat pengembangan produk
 
 c. Ideate
+
 - User Goal
 Tahapan pertama idea ini adalah menentukan tujuan yang berisikan user flow dari,  perjalan yang dilalui user, setiap langkah dan story nya sehingga hasil akhir dari produk terlihat
 - Task flow
