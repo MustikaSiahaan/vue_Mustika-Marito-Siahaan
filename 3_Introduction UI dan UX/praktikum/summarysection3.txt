@@ -51,7 +51,7 @@ menghilangkan elemen yang tak penting, menggunakan bahasa yang mudah dimengerti 
 - good typohraphy
 Penggunaan typeface yang meliput ukuran, font, dan susunan text 
 - offer informative feedback
-Umpan balik yang ditampilkan harus bermakn, berhubungan dan jelas
+Umpan balik yang ditampilkan harus bermakna, berhubungan dan jelas
 
 3. Prototype
 Simulasi ataupun contoh dari produk akhir. Tujuan dari protoype ialah untuk menguji produk sebelum menerapkannya
