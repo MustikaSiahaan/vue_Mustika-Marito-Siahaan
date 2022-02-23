@@ -1,0 +1,66 @@
+1. User Experience
+UX merupakan segala sesuatu yang dirasakan user saat menggunakan poroduk kita.
+UX merupakan suatu hal yg besar yang terdiri dari bisni logic, teknologi, interaksi logic,
+desain, komunikasi komputer dan bisnis
+2. Lean UX Design Thinking
+- Empathize 
+berpura pura melihat dunia dari sisi user, memahami dan mengahrgai perasaan mereka
+ *User persona
+membuat user persona/ profil user terkait ekspektasi, kebutuhan, tujuaan dan kabiasaan user
+hal ini bertujuan agar mengetahu kepada siapa desain dibuat
+*User job stories based on Hooked Model
+Yang dijabarkan mulai dari situasi yang dialami, kemudian motivaasi yang muncul serta outcomenya
+*Usability testing
+cara untuk mengetahui seberapa mudah, seberapa efisien dan efektiv produk, dan kepuasaan user
+menggunakan produk
+- Define
+pada tahapa ini, memanfaatkan segala informasi yang didapatkan dari tahap sebelumnya
+
+*Pritoritising Pain Points
+Memprioritaskan setiap informasi yan ada
+*Defining Core Problem
+diharapkan menemukan masalah inti sehingga lebih mengetahui apa yang menjadi fokus
+saat pengembangan produk
+
+- Ideate
+*User Goal
+Tapan pertama idea ini adalah menentukan tujuan yang berisikan user flow dari,  perjalan yang
+dilalui user, setiap langkah dan story nya sehingga hasil akhir dari produk terlihat
+*Task flow
+berisi setiap langkah yang dilakukan user sampai user berhasil menyelesaikan setiap langkanhnya
+
+ 
+*Wireflow
+combinasi wireframe(kerangka untuk menata item dalam aplikasi) dan flowcharts(diagram yang menampilkan 
+langkah-langkah proses dari suatu program)
+
+- Prototype dan - Validate
+kedua tahapan ini akan paling sering diulang karena akan terlihat kekurangan ux sehingga
+bisa diperbaiki
+
+
+3. User Interface(UI)
+Merupakan visual yang dilihat dan digunakan user saat berinteraksi dengan produk
+Pokok utama dalam user interface adalah consisteny, keep the interface simple, 
+good typhography, offer informative feedback
+- consistency
+Desain menggunakan pola yanng sama pada setiap halamannya dan urutan yang dillakukan pada tiap
+aktivitas memiliki kondisi yang mirip, contoh tata letak header dan footer selalu sama di tiap halaman
+- keep the interface simple
+menghilangkan elemen yang tak penting, menggunakan bahasa yang mudah dimengerti untuk memudahkan akses
+- good typohraphy
+Penggunaan typeface yang meliput ukuran, font, dan susunan text 
+- offer informative feedback
+Umpan balik yang ditampilkan harus bermakn, berhubungan dan jelas
+
+3. Prototype
+Simulasi ataupun contoh dari produk akhir. Tujuan dari protoype ialah untuk menguji produk sebelum menerapkannya
+pada produk akhir
+Tujuan : mendaptkan mfeedback dari user, stakeholder, dan team
+menampilkan interaksi dan flow kepada developer
+Pilar utama prototype : representation, precision, interactivity
+
+
+
+
+
