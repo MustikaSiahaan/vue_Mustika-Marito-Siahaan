@@ -119,7 +119,8 @@ Mengidetifikasi bagian - bagian pada desain web :
 
 4. Menentukan color palette dari desain
 
-Color palette dapat dilihat pada link gdocs
+Berikut ini merupakan color palette yang digunakan oleh desain web tersebut
+![gamabar one](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/3_Introduction%20UI%20dan%20UX/screenshots/palet%20warna.jpg)
 
 
 
