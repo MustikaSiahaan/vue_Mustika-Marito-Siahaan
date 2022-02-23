@@ -33,7 +33,7 @@ Yang dijabarkan mulai dari situasi yang dialami, kemudian motivaasi yang muncul 
 Cara untuk mengetahui seberapa mudah, seberapa efisien dan efektiv produk, dan kepuasaan user menggunakan produk
 
 b. Define
-Pada tahapa ini, memanfaatkan segala informasi yang telah didapatkan dari tahap sebelumnya
+Pada tahapan ini, memanfaatkan segala informasi yang telah didapatkan dari tahap sebelumnya
 - Pritoritising Pain Points
 Memprioritaskan setiap informasi yang ada
 - Defining Core Problem
@@ -42,7 +42,7 @@ saat pengembangan produk
 
 c. Ideate
 - User Goal
-Tapan pertama idea ini adalah menentukan tujuan yang berisikan user flow dari,  perjalan yang dilalui user, setiap langkah dan story nya sehingga hasil akhir dari produk terlihat
+Tahapan pertama idea ini adalah menentukan tujuan yang berisikan user flow dari,  perjalan yang dilalui user, setiap langkah dan story nya sehingga hasil akhir dari produk terlihat
 - Task flow
 Berisi setiap langkah yang dilakukan user sampai user berhasil menyelesaikan setiap langkanhnya
 - Wireflow
