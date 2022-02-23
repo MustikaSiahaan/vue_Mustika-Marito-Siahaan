@@ -92,6 +92,7 @@ Mengidetifikasi bagian - bagian pada desain web :
 - Footer
 
 
+
 2. Menuliskan secara detail fitur dan letak dari UX
 
 - Fitur portfolio, dari segi ux memudahkan pengguna, karena peletakan dari elemen tampilannya terlihat rapi otomatis pengguna nyaman saat menggunakannya. Pengguna diberikan informasi yang mudah dipahami untuk melihat lebih detail setiap portofolio yang disediakan
@@ -99,6 +100,7 @@ Mengidetifikasi bagian - bagian pada desain web :
 - Fitur service, dari segi ux sangat membantu pengguna, karena peletakan dan penggunaan icon dan deskripsinya dibuat selaras dan familiar yang mudah dipahami
 
 - Fitur team dari segi UX, peletakan elemen bagian surface/visual design tampilan fitur ini bisa membuat pengguna awam bingung melihat fitur nya dari segi peletakan gambar dan icon yang terlihat terlalu dekat dan tidak ada border yang membatasinya
+
 
 
 3. Detail fitur dan letak dari UI
@@ -113,9 +115,11 @@ Mengidetifikasi bagian - bagian pada desain web :
 
 - Fitur home, dari segi tampilan UI dibuat sederhana akan tetapi memberikan apa yang dibutuhkan oleh pengguna dengan menggunakan informasi yang simpel sehingga mudah dipahami sebagai contoh, saat pertama sekali mengunjungi website nya pengguna langsung diarahkan untuk bisa langsung mendownload tema yang disediakan oleh website tanpa perlu mencari dari menu. Dari segi UI, fitur home ini telah menggunakan tipografi yang baik
 
+
+
 4. Menentukan color palette dari desain
 
-Berikut ini merupakan color pallet dari desain web tersebut :
+Color palette dapat dilihat pada link gdocs
 
 
 
