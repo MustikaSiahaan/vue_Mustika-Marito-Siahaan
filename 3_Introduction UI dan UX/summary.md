@@ -24,6 +24,7 @@ Lean UX Design Thingking ini terdiri dari beberapa tahapan yaitu :
 Berikut ini penjelasan terkait tahapan - tahapan tersebut :
 
 a. Empathize 
+
 Dengan berpura pura melihat dunia dari sisi user, memahami dan mengahrgai perasaan user
 - User persona
 Membuat user persona/ profil user terkait ekspektasi, kebutuhan, tujuaan dan kabiasaan user
