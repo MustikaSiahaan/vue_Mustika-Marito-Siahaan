@@ -10,7 +10,7 @@ Dalam materi ini, mempelajari:
 
 ### User Experience
 UX merupakan segala sesuatu yang dirasakan user saat menggunakan poroduk kita.
-UX merupakan suatu hal yg besar yang terdiri dari bisni logic, teknologi, interaksi logic, desain, komunikasi komputer dan bisnis
+UX merupakan suatu hal yg besar yang terdiri dari bisnis logic, teknologi, interaksi logic, desain, komunikasi komputer dan bisnis
 
 
 ### Lean UX Design Thingking
