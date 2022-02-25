@@ -22,7 +22,7 @@ Keuntungan Menggunakan Figa :
 Kekurangan Menggunakan Figma :
 - Harus online saat bekerja, tapi dapat menyimpan file secara lokal, kemudian dapat memperbaruinya lagi nanti
 
-### IDE/ools dalam Figma
+### IDE/Tools dalam Figma
 - Importing old sketch files
 - Setting up new frames 
 - Grid and layaout columns
