@@ -29,10 +29,10 @@ Notepad, sublime, viscode dan lain lain
 
 Dokumentasi HTML:
 - <! DOCTYPE html> = berfungsi untuk mendefinisikan dokumen ini sebagai HTML5
-- <html> = elemen root dari halaman HTML
-- <head> = berisi informasi meta tentang dokumen
-- <title> = menentukan judul untuk dokumen
-- <body> = berisi konten halaman yang terlihat
+- tag html = elemen root dari halaman HTML
+- tag head = berisi informasi meta tentang dokumen
+- tag title = menentukan judul untuk dokumen
+- tag body = berisi konten halaman yang terlihat
 
 ### Tag HTML
 - tag div : untuk konten
