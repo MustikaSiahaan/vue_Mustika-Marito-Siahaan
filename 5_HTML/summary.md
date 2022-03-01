@@ -36,12 +36,12 @@ Dokumentasi HTML:
 
 ### Tag HTML
 - tag div : untuk konten
-- tag heading : <h1>-<h6> dan tag paragraf <p>
-- styling : <strong>=lebih tebal, <em>=italic, <s>=text garis tercoret>, <br>=garis baru
-- tag link : <a href="">
-- tag image : <img src="">
-- tag list : <ol> <li> <ul type = "">
-- tag form : <form><fieldsheet><label><input id="" type="" placeholder="">
+- tag heading : "<h1>" sampai "<h6>" dan tag paragraf "<p>"
+- styling : "<strong>" = lebih tebal, "<em>" =italic, "<s>" = text garis tercoret, "<br>" =garis baru
+- tag link : "<a href="">"
+- tag image : "<img src="">"
+- tag list : "<ol> <li> <ul type = "">"
+- tag form : "<form><fieldsheet><label><input id="" type="" placeholder="">"
   
  ## TASK
   
