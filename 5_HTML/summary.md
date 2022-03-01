@@ -28,13 +28,13 @@ HTML Editors :
 Notepad, sublime, viscode dan lain lain
 
 Dokumentasi HTML:
-<! DOCTYPE html> = berfungsi untuk mendefinisikan dokumen ini sebagai HTML5
-<html> = elemen root dari halaman HTML
-<head> = berisi informasi meta tentang dokumen
-<title> = menentukan judul untuk dokumen
-<body> = berisi konten halaman yang terlihat
+- <! DOCTYPE html> = berfungsi untuk mendefinisikan dokumen ini sebagai HTML5
+- <html> = elemen root dari halaman HTML
+- <head> = berisi informasi meta tentang dokumen
+- <title> = menentukan judul untuk dokumen
+- <body> = berisi konten halaman yang terlihat
 
-### HTML
+### Tag HTML
 - tag div : untuk konten
 - tag heading : <h1>-<h6> dan tag paragraf <p>
 - styling : <strong>=lebih tebal, <em>=italic, <s>=text garis tercoret>, <br>=garis baru
