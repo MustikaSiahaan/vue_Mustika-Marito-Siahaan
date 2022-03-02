@@ -15,7 +15,7 @@ dan mengatur halaman web(float, align display, psosition)
 #### Menambah File CSS
 - External : tag link rel=”stylesheet” href=”main.css”
 - Internal : Didefinisikan di dalam elemen style, di dalam bagian head atau body 
-- Inline : /<h1 style=”color: #19355f;”>Hello World</h1>/
+- Inline : /<h1 style=”color: #19355f;”>Hello World
 
 #### CSS Selector
 - ID: (#) tiap elemen memiliki satu tag id, pada 1 halaman tidak boleh ada 2 penamaan id yang berbeda
@@ -28,11 +28,15 @@ satu elemen boleh punya class berbeda yang lebih dari satu
 Mengelompokkan beberapa selector dalam satu deklarasi style.
 
 #### CSS Font
-- External : tag link rel=”stylesheet” href=”main.css”
-- Internal : Didefinisikan di dalam elemen style, di dalam bagian head atau body 
-- Inline : /<h1 style=”color: #19355f;”>Hello World</h1>/
+- Font : Menetapkan semua properti font dalam satu deklarasi
+- Font-family : Menentukan kelompok font teks
+- Font-size : Menentukan ukuran font teks
+- Font-weight : Menentukan ketebalan untuk font teks
+- Font-style : Menentukan font teks menjadi miring
 
-#### CSSC Margin & Padding 
+#### CSSC Margin & Padding
+Memberikan ukuran ruang disekitar element.
+
 .content {
 	margin: 25px 20px;
 	padding: 25px 40px;
@@ -48,9 +52,9 @@ Mengelompokkan beberapa selector dalam satu deklarasi style.
 ### CSS Link Event, CSS Transisi, CSS Display dan CSS Table
  
 #### CSS Link Event
-:hover = Kondisi style ketika mouse berada diatas elemen.
-:active = Style ketika link “a” ditekan. 
-:visited = Style dimana elemen link “a” telah di kunjungi / di klik.
+- :hover = Kondisi style ketika mouse berada diatas elemen.
+- :active = Style ketika link “a” ditekan. 
+- :visited = Style dimana elemen link “a” telah di kunjungi / di klik.
 
 #### CSS Transisi
 Transisi CSS ditujukan untuk mengubah value properti dengan lebih halus dalam durasi yang ditentukan
@@ -66,14 +70,10 @@ Ditujukan untuk tampilan dari elemen
 - Border-collapse : Membuat border menjadi single border
 - :nth-child(even) : Membuat background stripe 
 
-
-
-
-
  ## TASK
   
   1. Membuat sebuah file bernama file1.html dan pada halaman tersebut memuat 
-kontent seperti yang telah diisntuksikan.
+kontent seperti yang telah diisntuksikan. Memanfaatkan tag div, css dan lain-lain untuk membuat kotak seperti yang di instruksikan
  
 
 2. Setelah itu, membuat sebuah file bernama file2.html dengan desain yang telah diinstruksikan 
