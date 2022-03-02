@@ -1,0 +1,112 @@
+html {
+    font-size: 10pt;
+
+    font-family: 'Source Sans Pro', 'Open Sans', Roboto, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Myriad Pro', 'Segoe UI', Myriad, Helvetica, 'Lucida Grande', 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, Arial, sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+
+nav {
+  float: right;
+}
+
+  nav img{
+      width: 100px;
+      height: 20px;
+  }
+
+  body {
+    margin: 0;
+    background-image: url(sample-pattern.png);
+  }
+
+  /*panjang halaman*/
+  section {
+    height: 1100px;
+  }
+
+  h1{
+      color: black;
+      margin-left: 40%;
+      margin-right: 40%;
+      font-size: ;
+  }
+
+  header {
+    
+    padding: 1.5em;
+    font-size: 140%;
+    padding: 0.25em 0;
+    margin-right: -55px;
+    background-color: white;
+    
+  }
+  article h3{
+      color:royalblue;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  
+  a {
+    
+    text-decoration: none;
+    padding: 1em;
+    color: royalblue;
+    transition: opacity .2s ease-in-out;
+}
+
+  article {
+    margin: 3.5em auto 0;
+    padding: 1em;
+    font-size: 100%;
+    max-width: 800px;
+    background: white;
+    
+  }
+
+  article p {
+    margin: 0;
+    color: #333;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  article p + p {
+    margin-top: .7em;
+  }
+
+  footer{
+    margin-top: 30px;
+    padding: 0.25em 0;
+    background: #000;
+    bottom: 0;
+    margin-right: -55px;
+    font-family: "Fjalla One", Verdana, Geneva, sans-serif;
+    font-size: 0.95em;
+    text-transform: uppercase;
+
+}
+
+h5{
+    text-align: center;
+    color: #FFF;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 1em;
+  overflow: hidden;
+
+}
+
+li {
+  float: left;
+}
+
+
+
+
+    
+   
+  
+   
