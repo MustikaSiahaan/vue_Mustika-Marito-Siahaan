@@ -3,7 +3,7 @@
 ## Resume
 Dalam materi ini, mempelajari:
 1. Pengertian CSS, penambahan file CSS dan CSS selector
-2. CSS gruouping, CSS Font, CSSC Margin&Padding dan CSS Background
+2. CSS grouping, CSS Font, CSSC Margin&Padding dan CSS Background
 3. CSS Link Event, CSS Transisi, CSS Display dan CSS Table
  
 ### Pengertian CSS, penambahan file CSS dan CSS selector
@@ -74,8 +74,9 @@ Ditujukan untuk tampilan dari elemen
   
   1. Membuat sebuah file bernama file1.html dan pada halaman tersebut memuat 
 kontent seperti yang telah diisntuksikan. Memanfaatkan tag div, css dan lain-lain untuk membuat kotak seperti yang di instruksikan
- 
+Seperit gamabr di bawah ini
+ ![gambar one](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/6_CSS/screenshots/tugas1.JPG)
 
-2. Setelah itu, membuat sebuah file bernama file2.html dengan desain yang telah diinstruksikan 
+2. Setelah itu, membuat sebuah file bernama file2.html dengan desain yang telah diinstruksikan.
 
 
