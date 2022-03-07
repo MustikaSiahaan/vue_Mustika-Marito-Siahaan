@@ -1,0 +1,189 @@
+/*------Navbar-----------*/
+.nav-item a{
+  color: gray !important;
+  text-decoration: none;
+}
+
+.nav-item a:hover{
+  color: #71c55d !important;
+}
+
+.welcome{
+  margin-top: 100px !important;
+  color:#71c55d;
+  font-family: "Philosopher", sans-serif;
+}
+
+.conten-main-bg{
+  height: calc(90vh);
+  background: url(/assets/img/hero-bg.png) bottom no-repeat;
+  background-size: 100%;
+}
+
+h1, h2, h3, h4{
+  margin:0;
+}
+
+
+/*-------Sections simple------*/
+section {
+  overflow: hidden;
+}
+
+.simple-section {
+  padding-bottom: 80px;
+  padding-top: 80px;
+}
+
+.simple h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 45px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+}
+
+.subjudul {
+  color: #626262;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  margin-bottom: 100px;
+  text-transform: capitalize;
+}
+
+h4 {
+  color: #000;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  line-height: 2;
+}
+
+.info p {
+  color: #505050;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  line-height: 2;
+}
+
+.info img{
+  width:60px;
+  height:60px;
+  margin-bottom: 20px;
+}
+
+.info a{
+  text-decoration: none;
+  color:black;
+  font-size: 12px;
+}
+
+/*---Section Andorid---*/
+
+.mobile{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.mobile img {
+  max-width: 100%;
+}
+
+.mobile .mobile-info {
+  padding-top: 60px;
+}
+
+.mobile .mobile-info h2{
+  color: #252525;
+  font-family: "roboto";
+  font-size: 39px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+}
+
+.mobile .mobile-info span {
+  font-weight: 700;
+  padding-right: 10px;
+  text-transform: uppercase;
+}
+
+.mobile .mobile-info ul li {
+    color: #505050;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 2;
+}
+
+.mobile p {
+  color: #505050;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  line-height: 2;
+}
+
+
+
+/*-----------------Footer------------------*/
+.footer {
+  background: #2a2c30;
+  padding-top: 50px;
+  margin-top: 30px;
+}
+.footer-judul .subjudul2  {
+  color: #fff;
+  display: inline-block;
+  float: none;
+  font-family: "Philosopher", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  height: 100%;
+  letter-spacing: 0.2em;
+  padding-left: 0;
+  padding-top: 0;
+  text-decoration: none;
+}
+
+.footer-judul p {
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+.part h4 {
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+.part ul li a {
+  color: #fff;
+  font-size: 12px;
+  padding-left: 5px;
+  text-decoration: none;
+  letter-spacing: 0;
+}
+.footer .copyrights  {
+  background: #fff;
+  margin-top: 50px;
+  text-align: center;
+  padding: 25px;
+}
+
+.copyrights a{
+  color: #505050;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.copy a{
+  color:#71c55d;
+}
+
+
+
+
