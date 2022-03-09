@@ -60,11 +60,12 @@ Contoh :
  ## TASK
   
   1. Membuat header yang responsive dengan desain yang telah diinstruksikan dengan memanfaatkan elemen - elemen dari Bootsrap
- ![gambar one](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/6_CSS/screenshots/tugas1.JPG)
+ ![gambar one](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/7_Bootstrap/screenshots/header.JPG)
 
 2. Setelah itu, membuat bagian dengan desain yang telah diinstruksikan dengan memanfaatkan elemen - elemen dari Bootsrap
+![gambar two](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/7_Bootstrap/screenshots/body.JPG)
 
-4. Membuat footer dengan desain yang telah diinstruksikan dengan memanfaatkan elemen - elemen dari Bootsrap
-
+3. Membuat footer dengan desain yang telah diinstruksikan dengan memanfaatkan elemen - elemen dari Bootsrap
+![gambar tri](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/7_Bootstrap/screenshots/footer.JPG)
 
 
