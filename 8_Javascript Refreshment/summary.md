@@ -99,7 +99,7 @@ DOM Event
  ![gambar one](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/8_Javascript%20Refreshment/screenshots/soal3.JPG)
  4. Megubah tanda (-) menjadi (/) pada variabe yang ditentukan
  ![gambar one](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/8_Javascript%20Refreshment/screenshots/soal4.JPG)
- 5. Mengalikan value dari array
+ 5. Mengalikan value dari array pada soal yang telah ditentukan
  ![gambar one](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/8_Javascript%20Refreshment/screenshots/soal5.JPG)
  6. Mmebulatkan bilangan pada variabel yang ditentukan
  ![gambar one](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/8_Javascript%20Refreshment/screenshots/soal6.JPG)
