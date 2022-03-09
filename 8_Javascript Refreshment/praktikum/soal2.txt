@@ -1,0 +1,13 @@
+2. Pertanyaan
+a. Karena value yang di assign pada variabel tardaftar adalah false, sedangkan pada baris ke 22 value
+yang harus dipenuhi agar dapat tertampil adalah true.
+b. Karena variabel nama di deklarasikan dengan const. dimana const ini merupakan 
+sebuah data yang tidak dapat di ubah atau konstan. jadi kalo diubah akan menjadi error
+c. Walaupun line 26 di comen tidak akan dapat menjalan kan line 28,  karena itu tidak ada kaitannya. 
+Pada line 28 terdapat variabel asal yang dimana variabel asal hanya di deklarasikan di line 8 yang 
+berada dalam function perkenalan, jadi variabel asal itu merupakan local variabel yang hanya dapat 
+di gunakan dalam function perkenalan dan tidak dapat di gunakan di luar function perkenalan.
+
+
+
+
