@@ -42,7 +42,7 @@ c. Refactoring : proses restrukturisasi kode, dengan mengubah struktur internal
 ## TASK 
 
 ### Problem 1
-Menurut saya kekurangannya terdapat pada penamaan class yang lebih baik jika huruf awalnya dimulai dengan huruf kapital. Selain itu, penamaan fungsi yang cukup panjang yang terdiri dari gabungan beberapa kta lebih baik jika diberikan huruf kapital pada awalan katanya. Serta kurangnya penjelasan berupa commetn pada code tersebut
+Menurut saya kekurangannya terdapat pada penamaan class yang lebih baik jika huruf awalnya dimulai dengan huruf kapital. Selain itu, penamaan method yang cukup panjang yang terdiri dari gabungan beberapa kta lebih baik jika diberikan huruf kapital pada awalan katanya(atau meggunakan camelCase). Serta kurangnya penjelasan berupa commetn pada code tersebut
 
 ### Problem 2
 
