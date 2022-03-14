@@ -72,6 +72,7 @@ Kta kunci penting :
  ## TASK 
   
   1. Membuat kode CSS yang menampilkan tampilan responsive dengan berbagai ukuran
+ 
   a. Jika lebar kurang dari 600px
   
 ![gambar satu](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/10_Frontend%20Fundamental/screenshots/1.JPG)
@@ -84,8 +85,9 @@ Kta kunci penting :
   
 ![gambar satu](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/10_Frontend%20Fundamental/screenshots/3.JPG)
   
-  2. Membuat repository baru dan sebuah branch yang bernama latihan-materi-1 yan beriisi latihan sebelumnya
-Berikut ini link repository : 
+  2. Membuat repository baru dan sebuah branch yang bernama latihan-materi-1 yang beriisi latihan sebelumnya
+ 
+Berikut ini link repository : https://github.com/MustikaSiahaan/Section10
 
 
 
