@@ -39,10 +39,10 @@ b. DRY(Don't Repeat Yourself): hindari duplikasi code, buat fungsi yang dapat
 digunakan secara berulang-ulang 
 c. Refactoring : proses restrukturisasi kode, dengan mengubah struktur internal
 
-##TASK 
+## TASK 
 
 ### Problem 1
-Menuerut saya kekurangannya terdapat pada penamaan class yang lebih baik jika huruf awalnya dimulai dengan huruf kapital. Selain itu, penamaan fungsi yang cukup panjang yang terdiri dari gabungan beberapa kta lebih baik jika diberikan huruf kapital pada awalan katanya
+Menurut saya kekurangannya terdapat pada penamaan class yang lebih baik jika huruf awalnya dimulai dengan huruf kapital. Selain itu, penamaan method yang cukup panjang yang terdiri dari gabungan beberapa kta lebih baik jika diberikan huruf kapital pada awalan katanya(atau meggunakan camelCase). Serta kurangnya penjelasan berupa commetn pada code tersebut
 
 ### Problem 2
 
