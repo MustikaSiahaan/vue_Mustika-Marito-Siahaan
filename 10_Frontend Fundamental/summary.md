@@ -52,9 +52,10 @@ Key yang penting :
 - devDependencies : daftar library ketika pengembangan
 
 Cara menambahkan dependencies :
-- Menjalankan perintah npm install <nama module> kemudian ditambah -D
+- Menjalankan perintah npm install <nama module> kemudian ditambah -D.
 Contoh : menjalankan perintah npm install vue dab npm install eslint -D
 Pada direktori proyek akan ditambhkan file berikut :
+ 
 a. node_modules : menampung library yang siap digunakan, yang memiliki ukuran yan besar
 saat memberikan proyek ke penyimpanan node_module dihapus, jika dibutuhkan dapat dikembalikan
 dengan menjalankan perintah npm install
