@@ -49,12 +49,14 @@ e. V-for : Untuk memberitahu Vue dalam melakukan pengulangan
 
 4. Events dan Method
 a. Memantau Event : menggunakan direktif v-on 
+  
 b. Menggunakan methods : fungsi yang dapat diakses pada instance VM  atau dalam ekspresidirektif
 Semua metode berkonteks "this" otomatis terikat ke instance Vue
 
 5. Computed Properties dan Watchers
 a. Computed Properties : memberikan logika yang terlalu banyak pada template sehingga sulit dipelihara
 Template menjadi tak sederhana serta deklaratif. Computed properties dibutuhkan untuk logika yang kompleks
+  
 b. Watchers : fitur khusus untuk memantu variabel dan bertindak saat nilainya berubah
 
 5. Component
@@ -64,10 +66,13 @@ dapat digunakan sebagai elemen custom pada instance root vue dengan new vue
 ## TASK
 
 1. Membuat suatu input dengan sebuah button
+![img1](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/11_Vue%20Fundamental/screenshots/satu.JPG)
 
 2. Menampailkan list yang ditambahkan, serta me-reset input saat button ditekan
-
+![img1](https://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/11_Vue%20Fundamental/screenshots/dua.JPG)
+  
 3. Menampilkan kata "Hebat!" saat list yang dimasukkan sudah sama dengan 4 ataupun lebih besar dari 4
+![img1] (vhttps://github.com/MustikaSiahaan/vue_Mustika-Marito-Siahaan/blob/master/11_Vue%20Fundamental/screenshots/tiga.JPG)
 
 
 
