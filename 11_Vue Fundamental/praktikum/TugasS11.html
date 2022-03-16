@@ -1,0 +1,38 @@
+<hmtl>
+    <head>
+        <title>Tugas Section 11</title>
+    </head>
+
+    <body>
+        <div id="app">
+            <ol>
+                <li v-for="visi in list">
+                    {{ visi }}
+                </li>
+            </ol>
+            <input type="text" v-model="visi"/>
+            <button @click="listVisi">Tambahkan</button>
+            <div v-if="list.length >= 4">Hebat!</div>
+            
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0/dist/vue.js"></script>
+        <script>
+            new Vue({
+                el: '#app',
+                data() {
+                    return{
+                        visi: '',
+                        list: []
+                    }
+                },
+                methods: {
+                    listVisi(){
+                        this.list.push(this.visi)
+                        this.visi = ''
+                    }
+                }
+            })
+        </script>
+    </body>
+</hmtl>
