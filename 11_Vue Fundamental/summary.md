@@ -32,11 +32,15 @@ Memanfaatkan perkakas standar dalam memudahkan pembuatan aplikasi vue
 2. Dasar - dasar Vue
 - Vue Instance : membuat fungsi vue
 - Vue Data Binding : secara deklaratif dapat mengikat DOM yang dirender ke data instance Vue
+  
 Jenis data binding pada vue :
   
 a. Di dalam konten : menambahkan text dengan kurung kurawal
+  
 b. Di atribut elemen : menambah variabel dengan v-bind
+  
 c. Di elemen HTML : menambah HTML elemen ke DOM menggunanan v-html
+  
 - Vue Reactivity : Vue instance ber- property data, saat value data berubah maka, value pada interface berubah otomatis
 
 3. Vue Directive
@@ -44,20 +48,24 @@ Dircetive merupakan atribut khusus yang diawali dengan v- yang berfungsi menjala
 Jenis Vue Directive :
   
 a. V-bind : Untuk melakukan one way data binding, shorthand(:href)
+  
 b. V-model : Untuk melakukan two way data binding
+  
 c. V-if, v-else dan v-else-if : Direktif Conditional Rendering, untuk melakukan rendering secara kondisional
+  
 d. V-on : Direktif Event, untuk memanggil fungsi, shorthand(@click)
+  
 e. V-for : Untuk memberitahu Vue dalam melakukan pengulangan
 
 4. Events dan Method
   
 a. Memantau Event : menggunakan direktif v-on 
-b. Menggunakan methods : fungsi yang dapat diakses pada instance VM  atau dalam ekspresidirektif
-Semua metode berkonteks "this" otomatis terikat ke instance Vue
+  
+b. Menggunakan methods : fungsi yang dapat diakses pada instance VM  atau dalam ekspresidirektif. Semua metode berkonteks "this" otomatis terikat ke instance Vue
 
 5. Computed Properties dan Watchers
-a. Computed Properties : memberikan logika yang terlalu banyak pada template sehingga sulit dipelihara
-Template menjadi tak sederhana serta deklaratif. Computed properties dibutuhkan untuk logika yang kompleks
+  
+a. Computed Properties : memberikan logika yang terlalu banyak pada template sehingga sulit dipelihara. Template menjadi tak sederhana serta deklaratif. Computed properties dibutuhkan untuk logika yang kompleks
   
 b. Watchers : fitur khusus untuk memantu variabel dan bertindak saat nilainya berubah
 
