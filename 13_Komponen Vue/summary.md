@@ -2,8 +2,11 @@
 
 ## Resume
 1. Module Export dan Import
-2.
-3.
+2. Komponen Dapat Digunakan Kembali
+3. Instance Lifecycle Hooks
+4. Instance Lifecycle Hooks
+
+
 
 #### Module Export dan Import
 
@@ -62,7 +65,7 @@ Contoh : melepas event listener scroll
 
 
 ## TASK
-1. Membuat input todo yang lebar nya memenuhi layar2. 
+1. Membuat input todo yang lebar nya memenuhi layar
 2. Membuat fungsi edit dan delete untuk setiap item
 
 
