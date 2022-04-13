@@ -6,6 +6,9 @@
      
         <button @click="editTodo(index)">Edit</button>
         <button @click="deleteTodo(index)">Delete</button>
+        <router-link :to="{name : 'detail'}">Detail
+        {{ todo }}
+        </router-link>
 
         <input v-if="isEdit" v-model="editList" />
         <button v-if="isEdit" @click="buttonSave(index)">Save</button>
@@ -34,15 +37,12 @@ export default {
       this.listTodo.push(this.Todo);
       this.Todo = "";
     },
-
     deleteTodo(index) {
       this.listTodo.splice(index, 1);
     },
-
     editTodo() {
       this.isEdit = true;
     },
-
     buttonSave(index) {
       this.listTodo[index] = this.editList;
     },
