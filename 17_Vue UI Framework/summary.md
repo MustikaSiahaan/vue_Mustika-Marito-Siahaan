@@ -1,8 +1,7 @@
 # 17 Vue UI Framework
 
 ## Resume
-1. 
-2.
+
 
 ### UI Framework
 Merupakan kumpulan elemen visual dan fungsionalita yang dapat digunakan instan
@@ -22,9 +21,11 @@ Vuetify memiliki warna tema bawaan yang digunakan secara manual dengan penggunaa
 Merupakan fitur penggantian warna background aplikasi menjadi terang atau gelap
 Cara kerja :
 a. Vuetify memiliki variabel boolean dark yang menyimpan warna tema bawaan mode gelap.
+
 Dengan sintaks berikut :
 - this.$vuetify.theme.dark
 - this.$vuetify.theme.themes.dark
+
 b. Membuat fungsi dalam penggantian tema warna Vuetify dengan menambah menu pilihan warna
 
 ### Reaktivitas Dengan UI Framework
@@ -33,9 +34,12 @@ ditentukan ukurannnya sesuai golongan tersebut
 
 ### Extra
 a. Tabel, memiliki fitur tambahan pagination, filter dan sort
-b. Validasi Input, komponen input mempunyai props untuk validasi yang mampu menerima array of function
+
+b. Validasi Input, komponen input mempunyai props untuk validasi yang mampu menerima array of 
+
 c. Skeleton Loader, membuat loading aplikasi berkualitas
+
 d. Dialog, membuat pop-up dialog
-e. 
+
 
 
