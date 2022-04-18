@@ -44,3 +44,7 @@ Cara kerja PWA :
 - Web App Manifest
 - Service workers
 - Disajikan dengan protokol HTTPS
+  
+## TASK
+  
+  Link deploy : https://zippy-llama-8016c3.netlify.app/
