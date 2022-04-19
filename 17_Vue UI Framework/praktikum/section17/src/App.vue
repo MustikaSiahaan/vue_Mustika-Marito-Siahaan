@@ -1,60 +1,82 @@
 <template>
-  <v-app>
-    <v-app-bar
-      app
-      color="primary"
-      dark
-    >
-      <div class="d-flex align-center">
-        <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-          transition="scale-transition"
-          width="40"
-        />
 
-        <v-img
-          alt="Vuetify Name"
-          class="shrink mt-1 hidden-sm-and-down"
-          contain
-          min-width="100"
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-          width="100"
-        />
-      </div>
 
-      <v-spacer></v-spacer>
+  <v-app light>
 
-      <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
-        text
-      >
-        <span class="mr-2">Latest Release</span>
-        <v-icon>mdi-open-in-new</v-icon>
-      </v-btn>
-    </v-app-bar>
+  <!--The SideMenu Component go here-->  
+  <SideMenu :drawer="drawer"  :api_key="api_key" @selectsource="setResource" ></SideMenu>
 
-    <v-main>
-      <HelloWorld/>
-    </v-main>
+  <v-toolbar fixed app light clipped-left color="primary" class="elevation-2">
+    <v-toolbar-side-icon @click="drawer = !drawer"  class="white--text"></v-toolbar-side-icon>
+    <v-toolbar-title class="white--text">News App</v-toolbar-title>
+  </v-toolbar>
+
+  <v-content>
+    <v-container fluid>
+
+      <!--The MainContent Component go here-->  
+      <MainContent :articles="articles"></MainContent>
+
+    </v-container>
+   </v-content>
+   <v-footer class="secondary" app>
+      <v-layout row wrap align-center>
+        <v-flex xs12>
+          <div class="white--text ml-3">
+            Made with
+            <v-icon class="red--text">favorite</v-icon>
+            by <a class="white--text" href="https://vuetifyjs.com" target="_blank">Vuetify</a>
+            and <a class="white--text" href="https://github.com/rachidsakara" target="_blank">art</a>
+          </div>
+        </v-flex>
+      </v-layout>
+    </v-footer>
   </v-app>
+
+
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld';
-
+import axios from 'axios' 
+import SideMenu from './components/SideMenu.vue' 
+import MainContent from './components/MainContent.vue' 
 export default {
-  name: 'App',
-
   components: {
-    HelloWorld,
+      SideMenu,
+      MainContent
   },
-
-  data: () => ({
-    //
-  }),
-};
+  data() {
+    return {
+      drawer: true, 
+      api_key:'Put_Your_API_Key_Here',
+      articles: [],
+      errors: [] 
+    }
+  },
+  created () {
+    axios.get('https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey='+this.api_key)
+      .then(response => {
+        this.articles = response.data.articles
+        console.log('data:')
+        console.log(response.data.articles)
+      .catch(e => {
+        this.errors.push(e)
+      })
+    })
+  },
+  methods: {
+     
+      setResource(source){
+        axios.get('https://newsapi.org/v2/top-headlines?sources='+source+'&apiKey='+this.api_key)
+        .then(response => {
+          this.articles = response.data.articles
+          console.log('Source Articles:')
+          console.log(response.data.articles) 
+        })
+        .catch(e => {
+          this.errors.push(e)
+        })
+      }
+   }
+  }
 </script>
